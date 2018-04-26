@@ -1,6 +1,6 @@
 ---
 title: PAGE TITLE HERE
-layout: template
+layout: default
 filename: index.md
 --- 
 
