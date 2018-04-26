@@ -1,8 +1,10 @@
-theme: jekyll-theme-cayman
-title: The title of your site
-description: A short description of your site's purpose
-markdown: kramdown
-kramdown:
-    math_engine: mathjax
-    input: GFM
-    syntax_highlighter: rouge
+title: Cayman Blog Theme
+description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and GitHub Pages, with social/SEO features.
+
+baseurl: "/webpage" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://toledy.github.io" # change this to the base hostname & protocol for your site
+
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+theme: # leave it empty
